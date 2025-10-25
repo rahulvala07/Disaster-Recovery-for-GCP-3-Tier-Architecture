@@ -37,9 +37,9 @@ This project demonstrates a complete disaster recovery solution with:
   │ Web Tier    (2)     │  │ Web Tier     (1)    │
   │ App Tier    (2)     │  │ App Tier     (1)    │
   │ Auto-scale: 2-10    │  │ Auto-scale:  1-6    │
-  └──────────┬──────────┘  └──────┬──────────────┘
-             │                    │
-  ┌──────────▼─────────┐  ┌──────▼──────────────┐
+  └──────────┬──────────┘  └─────────────────────┘
+             │                    
+  ┌──────────▼─────────┐  ┌─────────────────────┐
   │ Cloud SQL Primary  │  │ Cloud SQL Replica   │
   │ (Master - R/W)     │──│ (Read-only)         │
   │ MySQL 8.0          │  │ Cross-region sync   │
