@@ -3,7 +3,7 @@ primary_region          = "asia-south1"
 secondary_region        = "asia-south2"
 environment             = "production"
 db_password             = "YourSecurePassword123!@#"  # CHANGE THIS!
-alert_email             = "your-email@gmail.com"       # CHANGE THIS!
+alert_email             = "your-email_address"       # CHANGE THIS!
 
 # FREE TIER SETTINGS
 enable_cloud_armor      = false
