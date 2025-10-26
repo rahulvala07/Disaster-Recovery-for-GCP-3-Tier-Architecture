@@ -7,7 +7,7 @@
 
 ![](architecture-diagram.jpg)
 
-A production-ready **multi-region disaster recovery** architecture on Google Cloud Platform using Terraform. Implements automated failover between Mumbai (Primary) and Delhi (Secondary) regions.
+A production-ready **multi-region disaster recovery** architecture on Google Cloud Platform using Terraform. Implements automated failover between Mumbai (Primary) and Delhi (Secondary) Zones.
 
 ---
 
