@@ -5,7 +5,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
-![](architecture-diagram.jpg)
+![](architecture_diagram.jpg)
 
 A production-ready **multi-region disaster recovery** architecture on Google Cloud Platform using Terraform. Implements automated failover between Mumbai (Primary) and Delhi (Secondary) Zones.
 
